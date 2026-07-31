@@ -1,0 +1,31 @@
+Data,Produto,Categoria,Regiao,Vendedor,Quantidade,Preco_Unitario,Valor_Total
+2026-01-05,Notebook Pro 14,Eletrônicos,Sudeste,Ana Souza,2,4500.00,9000.00
+2026-01-06,Mouse Sem Fio,Acessórios,Sul,Bruno Lima,10,89.90,899.00
+2026-01-06,Teclado Mecânico,Acessórios,Sudeste,Ana Souza,5,320.00,1600.00
+2026-01-07,Monitor 27 polegadas,Eletrônicos,Nordeste,Carla Dias,3,1250.00,3750.00
+2026-01-08,Notebook Pro 14,Eletrônicos,Sul,Bruno Lima,1,4500.00,4500.00
+2026-01-08,Cadeira Gamer,Móveis,Sudeste,Diego Alves,4,899.00,3596.00
+2026-01-09,Mouse Sem Fio,Acessórios,Centro-Oeste,Elaine Costa,15,89.90,1348.50
+2026-01-10,Webcam HD,Acessórios,Sudeste,Ana Souza,,129.90,
+2026-01-11,Monitor 27 polegadas,Eletrônicos,Sul,Bruno Lima,2,1250.00,2500.00
+2026-01-12,Teclado Mecânico,Acessórios,Nordeste,Carla Dias,7,320.00,2240.00
+2026-01-13,Cadeira Gamer,Móveis,Centro-Oeste,Elaine Costa,2,899.00,1798.00
+2026-01-14,Notebook Pro 14,Eletrônicos,Sudeste,Diego Alves,3,4500.00,13500.00
+2026-01-15,Mouse Sem Fio,Acessórios,Sul,Bruno Lima,8,89.90,719.20
+2026-01-16,Headset Gamer,Acessórios,Sudeste,Ana Souza,6,250.00,1500.00
+2026-01-17,Monitor 27 polegadas,Eletrônicos,Nordeste,Carla Dias,,1250.00,
+2026-01-18,Cadeira Gamer,Móveis,Sudeste,Diego Alves,3,899.00,2697.00
+2026-01-19,Webcam HD,Acessórios,Centro-Oeste,Elaine Costa,4,129.90,519.60
+2026-01-20,Notebook Pro 14,Eletrônicos,Sul,Bruno Lima,2,4500.00,9000.00
+2026-01-21,Teclado Mecânico,Acessórios,Sudeste,Ana Souza,9,320.00,2880.00
+2026-01-22,Headset Gamer,Acessórios,Nordeste,Carla Dias,5,250.00,1250.00
+2026-01-23,Monitor 27 polegadas,Eletrônicos,Sudeste,Diego Alves,4,1250.00,5000.00
+2026-01-24,Mouse Sem Fio,Acessórios,Centro-Oeste,Elaine Costa,12,89.90,1078.80
+2026-01-25,Cadeira Gamer,Móveis,Sul,Bruno Lima,1,899.00,899.00
+2026-01-26,Notebook Pro 14,Eletrônicos,Sudeste,Ana Souza,4,4500.00,18000.00
+2026-01-27,Webcam HD,Acessórios,Nordeste,Carla Dias,7,129.90,909.30
+2026-01-28,Headset Gamer,Acessórios,Sudeste,Diego Alves,3,250.00,750.00
+2026-01-29,Teclado Mecânico,Acessórios,Centro-Oeste,Elaine Costa,6,320.00,1920.00
+2026-01-30,Monitor 27 polegadas,Eletrônicos,Sul,Bruno Lima,3,1250.00,3750.00
+2026-01-31,Notebook Pro 14,Eletrônicos,Sudeste,Ana Souza,,4500.00,
+2026-02-01,Cadeira Gamer,Móveis,Nordeste,Carla Dias,2,899.00,1798.00

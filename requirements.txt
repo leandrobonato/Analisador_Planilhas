@@ -1,0 +1,17 @@
+# Leitura e análise de dados
+pandas>=2.0
+polars>=1.0
+openpyxl>=3.1
+
+# Gráficos e relatórios
+matplotlib>=3.7
+plotly>=5.20
+
+# Fontes de dados externas (APIs)
+kaggle>=1.6
+google-cloud-bigquery[pandas]>=3.20
+db-dtypes>=1.2
+
+# Opcionais — necessários apenas para ler formatos locais específicos:
+# xlrd>=2.0        (planilhas .xls antigas)
+# odfpy>=1.4        (planilhas .ods do LibreOffice/OpenOffice)

@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Analisador de Dados — relatórios gerados e cache de datasets baixados
+output/
+cache_kaggle/
+
+# Claude Code
+.claude/
